@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /ssv-staking/
+Sitemap: https://ssv-staking.github.io/sitemap.xml
